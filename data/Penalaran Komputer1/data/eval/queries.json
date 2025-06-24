@@ -1,0 +1,502 @@
+[
+  {
+    "query_id": 1,
+    "query_text": "Isi dokumen hukum dummy nomor 1: konten pasal dan vonis terkait. (Dummy 1)",
+    "ground_truth": "1"
+  },
+  {
+    "query_id": 2,
+    "query_text": "Isi dokumen hukum dummy nomor 2: konten pasal dan vonis terkait. (Dummy 2)",
+    "ground_truth": "2"
+  },
+  {
+    "query_id": 3,
+    "query_text": "Isi dokumen hukum dummy nomor 3: konten pasal dan vonis terkait. (Dummy 3)",
+    "ground_truth": "3"
+  },
+  {
+    "query_id": 4,
+    "query_text": "Isi dokumen hukum dummy nomor 4: konten pasal dan vonis terkait. (Dummy 4)",
+    "ground_truth": "4"
+  },
+  {
+    "query_id": 5,
+    "query_text": "Isi dokumen hukum dummy nomor 5: konten pasal dan vonis terkait. (Dummy 5)",
+    "ground_truth": "5"
+  },
+  {
+    "query_id": 6,
+    "query_text": "Isi dokumen hukum dummy nomor 6: konten pasal dan vonis terkait. (Dummy 6)",
+    "ground_truth": "6"
+  },
+  {
+    "query_id": 7,
+    "query_text": "Isi dokumen hukum dummy nomor 7: konten pasal dan vonis terkait. (Dummy 7)",
+    "ground_truth": "7"
+  },
+  {
+    "query_id": 8,
+    "query_text": "Isi dokumen hukum dummy nomor 8: konten pasal dan vonis terkait. (Dummy 8)",
+    "ground_truth": "8"
+  },
+  {
+    "query_id": 9,
+    "query_text": "Isi dokumen hukum dummy nomor 9: konten pasal dan vonis terkait. (Dummy 9)",
+    "ground_truth": "9"
+  },
+  {
+    "query_id": 10,
+    "query_text": "Isi dokumen hukum dummy nomor 10: konten pasal dan vonis terkait. (Dummy 10)",
+    "ground_truth": "10"
+  },
+  {
+    "query_id": 11,
+    "query_text": "Isi dokumen hukum dummy nomor 11: konten pasal dan vonis terkait. (Dummy 11)",
+    "ground_truth": "11"
+  },
+  {
+    "query_id": 12,
+    "query_text": "Isi dokumen hukum dummy nomor 12: konten pasal dan vonis terkait. (Dummy 12)",
+    "ground_truth": "12"
+  },
+  {
+    "query_id": 13,
+    "query_text": "Isi dokumen hukum dummy nomor 13: konten pasal dan vonis terkait. (Dummy 13)",
+    "ground_truth": "13"
+  },
+  {
+    "query_id": 14,
+    "query_text": "Isi dokumen hukum dummy nomor 14: konten pasal dan vonis terkait. (Dummy 14)",
+    "ground_truth": "14"
+  },
+  {
+    "query_id": 15,
+    "query_text": "Isi dokumen hukum dummy nomor 15: konten pasal dan vonis terkait. (Dummy 15)",
+    "ground_truth": "15"
+  },
+  {
+    "query_id": 16,
+    "query_text": "Isi dokumen hukum dummy nomor 16: konten pasal dan vonis terkait. (Dummy 16)",
+    "ground_truth": "16"
+  },
+  {
+    "query_id": 17,
+    "query_text": "Isi dokumen hukum dummy nomor 17: konten pasal dan vonis terkait. (Dummy 17)",
+    "ground_truth": "17"
+  },
+  {
+    "query_id": 18,
+    "query_text": "Isi dokumen hukum dummy nomor 18: konten pasal dan vonis terkait. (Dummy 18)",
+    "ground_truth": "18"
+  },
+  {
+    "query_id": 19,
+    "query_text": "Isi dokumen hukum dummy nomor 19: konten pasal dan vonis terkait. (Dummy 19)",
+    "ground_truth": "19"
+  },
+  {
+    "query_id": 20,
+    "query_text": "Isi dokumen hukum dummy nomor 20: konten pasal dan vonis terkait. (Dummy 20)",
+    "ground_truth": "20"
+  },
+  {
+    "query_id": 21,
+    "query_text": "Isi dokumen hukum dummy nomor 21: konten pasal dan vonis terkait. (Dummy 21)",
+    "ground_truth": "21"
+  },
+  {
+    "query_id": 22,
+    "query_text": "Isi dokumen hukum dummy nomor 22: konten pasal dan vonis terkait. (Dummy 22)",
+    "ground_truth": "22"
+  },
+  {
+    "query_id": 23,
+    "query_text": "Isi dokumen hukum dummy nomor 23: konten pasal dan vonis terkait. (Dummy 23)",
+    "ground_truth": "23"
+  },
+  {
+    "query_id": 24,
+    "query_text": "Isi dokumen hukum dummy nomor 24: konten pasal dan vonis terkait. (Dummy 24)",
+    "ground_truth": "24"
+  },
+  {
+    "query_id": 25,
+    "query_text": "Isi dokumen hukum dummy nomor 25: konten pasal dan vonis terkait. (Dummy 25)",
+    "ground_truth": "25"
+  },
+  {
+    "query_id": 26,
+    "query_text": "Isi dokumen hukum dummy nomor 26: konten pasal dan vonis terkait. (Dummy 26)",
+    "ground_truth": "26"
+  },
+  {
+    "query_id": 27,
+    "query_text": "Isi dokumen hukum dummy nomor 27: konten pasal dan vonis terkait. (Dummy 27)",
+    "ground_truth": "27"
+  },
+  {
+    "query_id": 28,
+    "query_text": "Isi dokumen hukum dummy nomor 28: konten pasal dan vonis terkait. (Dummy 28)",
+    "ground_truth": "28"
+  },
+  {
+    "query_id": 29,
+    "query_text": "Isi dokumen hukum dummy nomor 29: konten pasal dan vonis terkait. (Dummy 29)",
+    "ground_truth": "29"
+  },
+  {
+    "query_id": 30,
+    "query_text": "Isi dokumen hukum dummy nomor 30: konten pasal dan vonis terkait. (Dummy 30)",
+    "ground_truth": "30"
+  },
+  {
+    "query_id": 31,
+    "query_text": "Isi dokumen hukum dummy nomor 31: konten pasal dan vonis terkait. (Dummy 31)",
+    "ground_truth": "31"
+  },
+  {
+    "query_id": 32,
+    "query_text": "Isi dokumen hukum dummy nomor 32: konten pasal dan vonis terkait. (Dummy 32)",
+    "ground_truth": "32"
+  },
+  {
+    "query_id": 33,
+    "query_text": "Isi dokumen hukum dummy nomor 33: konten pasal dan vonis terkait. (Dummy 33)",
+    "ground_truth": "33"
+  },
+  {
+    "query_id": 34,
+    "query_text": "Isi dokumen hukum dummy nomor 34: konten pasal dan vonis terkait. (Dummy 34)",
+    "ground_truth": "34"
+  },
+  {
+    "query_id": 35,
+    "query_text": "Isi dokumen hukum dummy nomor 35: konten pasal dan vonis terkait. (Dummy 35)",
+    "ground_truth": "35"
+  },
+  {
+    "query_id": 36,
+    "query_text": "Isi dokumen hukum dummy nomor 36: konten pasal dan vonis terkait. (Dummy 36)",
+    "ground_truth": "36"
+  },
+  {
+    "query_id": 37,
+    "query_text": "Isi dokumen hukum dummy nomor 37: konten pasal dan vonis terkait. (Dummy 37)",
+    "ground_truth": "37"
+  },
+  {
+    "query_id": 38,
+    "query_text": "Isi dokumen hukum dummy nomor 38: konten pasal dan vonis terkait. (Dummy 38)",
+    "ground_truth": "38"
+  },
+  {
+    "query_id": 39,
+    "query_text": "Isi dokumen hukum dummy nomor 39: konten pasal dan vonis terkait. (Dummy 39)",
+    "ground_truth": "39"
+  },
+  {
+    "query_id": 40,
+    "query_text": "Isi dokumen hukum dummy nomor 40: konten pasal dan vonis terkait. (Dummy 40)",
+    "ground_truth": "40"
+  },
+  {
+    "query_id": 41,
+    "query_text": "Isi dokumen hukum dummy nomor 41: konten pasal dan vonis terkait. (Dummy 41)",
+    "ground_truth": "41"
+  },
+  {
+    "query_id": 42,
+    "query_text": "Isi dokumen hukum dummy nomor 42: konten pasal dan vonis terkait. (Dummy 42)",
+    "ground_truth": "42"
+  },
+  {
+    "query_id": 43,
+    "query_text": "Isi dokumen hukum dummy nomor 43: konten pasal dan vonis terkait. (Dummy 43)",
+    "ground_truth": "43"
+  },
+  {
+    "query_id": 44,
+    "query_text": "Isi dokumen hukum dummy nomor 44: konten pasal dan vonis terkait. (Dummy 44)",
+    "ground_truth": "44"
+  },
+  {
+    "query_id": 45,
+    "query_text": "Isi dokumen hukum dummy nomor 45: konten pasal dan vonis terkait. (Dummy 45)",
+    "ground_truth": "45"
+  },
+  {
+    "query_id": 46,
+    "query_text": "Isi dokumen hukum dummy nomor 46: konten pasal dan vonis terkait. (Dummy 46)",
+    "ground_truth": "46"
+  },
+  {
+    "query_id": 47,
+    "query_text": "Isi dokumen hukum dummy nomor 47: konten pasal dan vonis terkait. (Dummy 47)",
+    "ground_truth": "47"
+  },
+  {
+    "query_id": 48,
+    "query_text": "Isi dokumen hukum dummy nomor 48: konten pasal dan vonis terkait. (Dummy 48)",
+    "ground_truth": "48"
+  },
+  {
+    "query_id": 49,
+    "query_text": "Isi dokumen hukum dummy nomor 49: konten pasal dan vonis terkait. (Dummy 49)",
+    "ground_truth": "49"
+  },
+  {
+    "query_id": 50,
+    "query_text": "Isi dokumen hukum dummy nomor 50: konten pasal dan vonis terkait. (Dummy 50)",
+    "ground_truth": "50"
+  },
+  {
+    "query_id": 51,
+    "query_text": "Isi dokumen hukum dummy nomor 51: konten pasal dan vonis terkait. (Dummy 51)",
+    "ground_truth": "51"
+  },
+  {
+    "query_id": 52,
+    "query_text": "Isi dokumen hukum dummy nomor 52: konten pasal dan vonis terkait. (Dummy 52)",
+    "ground_truth": "52"
+  },
+  {
+    "query_id": 53,
+    "query_text": "Isi dokumen hukum dummy nomor 53: konten pasal dan vonis terkait. (Dummy 53)",
+    "ground_truth": "53"
+  },
+  {
+    "query_id": 54,
+    "query_text": "Isi dokumen hukum dummy nomor 54: konten pasal dan vonis terkait. (Dummy 54)",
+    "ground_truth": "54"
+  },
+  {
+    "query_id": 55,
+    "query_text": "Isi dokumen hukum dummy nomor 55: konten pasal dan vonis terkait. (Dummy 55)",
+    "ground_truth": "55"
+  },
+  {
+    "query_id": 56,
+    "query_text": "Isi dokumen hukum dummy nomor 56: konten pasal dan vonis terkait. (Dummy 56)",
+    "ground_truth": "56"
+  },
+  {
+    "query_id": 57,
+    "query_text": "Isi dokumen hukum dummy nomor 57: konten pasal dan vonis terkait. (Dummy 57)",
+    "ground_truth": "57"
+  },
+  {
+    "query_id": 58,
+    "query_text": "Isi dokumen hukum dummy nomor 58: konten pasal dan vonis terkait. (Dummy 58)",
+    "ground_truth": "58"
+  },
+  {
+    "query_id": 59,
+    "query_text": "Isi dokumen hukum dummy nomor 59: konten pasal dan vonis terkait. (Dummy 59)",
+    "ground_truth": "59"
+  },
+  {
+    "query_id": 60,
+    "query_text": "Isi dokumen hukum dummy nomor 60: konten pasal dan vonis terkait. (Dummy 60)",
+    "ground_truth": "60"
+  },
+  {
+    "query_id": 61,
+    "query_text": "Isi dokumen hukum dummy nomor 61: konten pasal dan vonis terkait. (Dummy 61)",
+    "ground_truth": "61"
+  },
+  {
+    "query_id": 62,
+    "query_text": "Isi dokumen hukum dummy nomor 62: konten pasal dan vonis terkait. (Dummy 62)",
+    "ground_truth": "62"
+  },
+  {
+    "query_id": 63,
+    "query_text": "Isi dokumen hukum dummy nomor 63: konten pasal dan vonis terkait. (Dummy 63)",
+    "ground_truth": "63"
+  },
+  {
+    "query_id": 64,
+    "query_text": "Isi dokumen hukum dummy nomor 64: konten pasal dan vonis terkait. (Dummy 64)",
+    "ground_truth": "64"
+  },
+  {
+    "query_id": 65,
+    "query_text": "Isi dokumen hukum dummy nomor 65: konten pasal dan vonis terkait. (Dummy 65)",
+    "ground_truth": "65"
+  },
+  {
+    "query_id": 66,
+    "query_text": "Isi dokumen hukum dummy nomor 66: konten pasal dan vonis terkait. (Dummy 66)",
+    "ground_truth": "66"
+  },
+  {
+    "query_id": 67,
+    "query_text": "Isi dokumen hukum dummy nomor 67: konten pasal dan vonis terkait. (Dummy 67)",
+    "ground_truth": "67"
+  },
+  {
+    "query_id": 68,
+    "query_text": "Isi dokumen hukum dummy nomor 68: konten pasal dan vonis terkait. (Dummy 68)",
+    "ground_truth": "68"
+  },
+  {
+    "query_id": 69,
+    "query_text": "Isi dokumen hukum dummy nomor 69: konten pasal dan vonis terkait. (Dummy 69)",
+    "ground_truth": "69"
+  },
+  {
+    "query_id": 70,
+    "query_text": "Isi dokumen hukum dummy nomor 70: konten pasal dan vonis terkait. (Dummy 70)",
+    "ground_truth": "70"
+  },
+  {
+    "query_id": 71,
+    "query_text": "Isi dokumen hukum dummy nomor 71: konten pasal dan vonis terkait. (Dummy 71)",
+    "ground_truth": "71"
+  },
+  {
+    "query_id": 72,
+    "query_text": "Isi dokumen hukum dummy nomor 72: konten pasal dan vonis terkait. (Dummy 72)",
+    "ground_truth": "72"
+  },
+  {
+    "query_id": 73,
+    "query_text": "Isi dokumen hukum dummy nomor 73: konten pasal dan vonis terkait. (Dummy 73)",
+    "ground_truth": "73"
+  },
+  {
+    "query_id": 74,
+    "query_text": "Isi dokumen hukum dummy nomor 74: konten pasal dan vonis terkait. (Dummy 74)",
+    "ground_truth": "74"
+  },
+  {
+    "query_id": 75,
+    "query_text": "Isi dokumen hukum dummy nomor 75: konten pasal dan vonis terkait. (Dummy 75)",
+    "ground_truth": "75"
+  },
+  {
+    "query_id": 76,
+    "query_text": "Isi dokumen hukum dummy nomor 76: konten pasal dan vonis terkait. (Dummy 76)",
+    "ground_truth": "76"
+  },
+  {
+    "query_id": 77,
+    "query_text": "Isi dokumen hukum dummy nomor 77: konten pasal dan vonis terkait. (Dummy 77)",
+    "ground_truth": "77"
+  },
+  {
+    "query_id": 78,
+    "query_text": "Isi dokumen hukum dummy nomor 78: konten pasal dan vonis terkait. (Dummy 78)",
+    "ground_truth": "78"
+  },
+  {
+    "query_id": 79,
+    "query_text": "Isi dokumen hukum dummy nomor 79: konten pasal dan vonis terkait. (Dummy 79)",
+    "ground_truth": "79"
+  },
+  {
+    "query_id": 80,
+    "query_text": "Isi dokumen hukum dummy nomor 80: konten pasal dan vonis terkait. (Dummy 80)",
+    "ground_truth": "80"
+  },
+  {
+    "query_id": 81,
+    "query_text": "Isi dokumen hukum dummy nomor 81: konten pasal dan vonis terkait. (Dummy 81)",
+    "ground_truth": "81"
+  },
+  {
+    "query_id": 82,
+    "query_text": "Isi dokumen hukum dummy nomor 82: konten pasal dan vonis terkait. (Dummy 82)",
+    "ground_truth": "82"
+  },
+  {
+    "query_id": 83,
+    "query_text": "Isi dokumen hukum dummy nomor 83: konten pasal dan vonis terkait. (Dummy 83)",
+    "ground_truth": "83"
+  },
+  {
+    "query_id": 84,
+    "query_text": "Isi dokumen hukum dummy nomor 84: konten pasal dan vonis terkait. (Dummy 84)",
+    "ground_truth": "84"
+  },
+  {
+    "query_id": 85,
+    "query_text": "Isi dokumen hukum dummy nomor 85: konten pasal dan vonis terkait. (Dummy 85)",
+    "ground_truth": "85"
+  },
+  {
+    "query_id": 86,
+    "query_text": "Isi dokumen hukum dummy nomor 86: konten pasal dan vonis terkait. (Dummy 86)",
+    "ground_truth": "86"
+  },
+  {
+    "query_id": 87,
+    "query_text": "Isi dokumen hukum dummy nomor 87: konten pasal dan vonis terkait. (Dummy 87)",
+    "ground_truth": "87"
+  },
+  {
+    "query_id": 88,
+    "query_text": "Isi dokumen hukum dummy nomor 88: konten pasal dan vonis terkait. (Dummy 88)",
+    "ground_truth": "88"
+  },
+  {
+    "query_id": 89,
+    "query_text": "Isi dokumen hukum dummy nomor 89: konten pasal dan vonis terkait. (Dummy 89)",
+    "ground_truth": "89"
+  },
+  {
+    "query_id": 90,
+    "query_text": "Isi dokumen hukum dummy nomor 90: konten pasal dan vonis terkait. (Dummy 90)",
+    "ground_truth": "90"
+  },
+  {
+    "query_id": 91,
+    "query_text": "Isi dokumen hukum dummy nomor 91: konten pasal dan vonis terkait. (Dummy 91)",
+    "ground_truth": "91"
+  },
+  {
+    "query_id": 92,
+    "query_text": "Isi dokumen hukum dummy nomor 92: konten pasal dan vonis terkait. (Dummy 92)",
+    "ground_truth": "92"
+  },
+  {
+    "query_id": 93,
+    "query_text": "Isi dokumen hukum dummy nomor 93: konten pasal dan vonis terkait. (Dummy 93)",
+    "ground_truth": "93"
+  },
+  {
+    "query_id": 94,
+    "query_text": "Isi dokumen hukum dummy nomor 94: konten pasal dan vonis terkait. (Dummy 94)",
+    "ground_truth": "94"
+  },
+  {
+    "query_id": 95,
+    "query_text": "Isi dokumen hukum dummy nomor 95: konten pasal dan vonis terkait. (Dummy 95)",
+    "ground_truth": "95"
+  },
+  {
+    "query_id": 96,
+    "query_text": "Isi dokumen hukum dummy nomor 96: konten pasal dan vonis terkait. (Dummy 96)",
+    "ground_truth": "96"
+  },
+  {
+    "query_id": 97,
+    "query_text": "Isi dokumen hukum dummy nomor 97: konten pasal dan vonis terkait. (Dummy 97)",
+    "ground_truth": "97"
+  },
+  {
+    "query_id": 98,
+    "query_text": "Isi dokumen hukum dummy nomor 98: konten pasal dan vonis terkait. (Dummy 98)",
+    "ground_truth": "98"
+  },
+  {
+    "query_id": 99,
+    "query_text": "Isi dokumen hukum dummy nomor 99: konten pasal dan vonis terkait. (Dummy 99)",
+    "ground_truth": "99"
+  },
+  {
+    "query_id": 100,
+    "query_text": "Isi dokumen hukum dummy nomor 100: konten pasal dan vonis terkait. (Dummy 100)",
+    "ground_truth": "100"
+  }
+]
