@@ -28,7 +28,7 @@ Proyek ini mengembangkan sistem **penalaran berbasis kasus (Case-Based Reasoning
 
 * **Ekstraksi Metadata:** Nomor Perkara, Tanggal, Pasal, Pihak, dll.
 * **Ekstraksi Konten Kunci:** Ringkasan Fakta dan Argumen Hukum.
-* **Feature Engineering:** Panjang teks, Bag-of-Words, QA-Pairs.
+* **Feature Engineering:** Panjang teks (jumlah kata), Bag-of-Words (kata kunci), Estimasi QA-pairs.
 * **Output:** /data/processed/cases.csv
 
 ### ✅ Tahap 3: Case Retrieval
@@ -74,19 +74,37 @@ cd PENALARAN-KOMPUTER-Pidana-Umum-Kejahatan-Terhadap-kesusilaan
 
 ### 2. Install Dependensi
 
+Buat dan jalankan `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+Isi `requirements.txt`:
+
+```txt
+pandas
+scikit-learn
+beautifulsoup4
+pdfminer.six
+sentence-transformers
+```
+
 Gunakan Google Colab **(disarankan)** atau Jupyter Notebook:
 
 python
 !pip install pandas scikit-learn beautifulsoup4 sentence-transformers
 
 
-### 3. Eksekusi Tiap Notebook
+### 3. Jalankan End-to-End Pipeline
 
-1. 01_cleaning.ipynb ➔ Konversi dan pembersihan dokumen.
-2. 02_case_representation.ipynb ➔ Ekstraksi metadata dan fitur.
-3. 03_retrieval.ipynb ➔ Vektorisasi dan retrieval kasus.
-4. 04_predict.ipynb ➔ Prediksi solusi kasus baru.
-5. 05_evaluation.ipynb ➔ Evaluasi dan analisis performa model.
+Buka dan jalankan notebook berikut secara berurutan:
+
+1. `01_cleaning.ipynb` : Konversi dan pembersihan teks putusan.
+2. `02_case_representation.ipynb` : Ekstraksi metadata & fitur.
+3. `03_retrieval.ipynb` : Vektorisasi dan retrieval.
+4. `04_predict.ipynb` : Prediksi solusi kasus baru.
+5. `05_evaluation.ipynb` : Evaluasi dan visualisasi hasil.
 
 ---
 
